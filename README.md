@@ -19,3 +19,4 @@ A nav section with at least 1 link that takes the user to another part of the pa
 A figure and appropriate figure caption. You can choose your own image link or use the one from codecademy( https://content.codecademy.com/courses/SemanticHTML/dogimage.jpeg)
 A footer with the names of your team members.
 Push your file to Github and invite Phiilip-Generation.
+Finally Phillip will be added in the github repo and submit it
